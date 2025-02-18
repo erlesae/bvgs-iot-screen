@@ -5,7 +5,7 @@ import Paho from 'paho-mqtt';
 const MQTT_HOST = "mqtt.flespi.io"
 const MQTT_PORT = 443
 const MQTT_TOPIC = "bvgs"
-const MQTT_USER = "FlespiToken 2Y7RKyuakWkn3jfE1lhEtI8nHYUHR7mJWjquIIuQtD3mM6ODiT6zp2KXQtsvqE2a"
+const MQTT_USER = "FlespiToken eN6c2xZTmwrf4F3PBtpWRgUrHaPInELphFr83gRdA6itzb6ZtlJaqtpXt4tEz3UE"
 const MQTT_PASS = ""
 
 export const ScoreBoard = () => {
